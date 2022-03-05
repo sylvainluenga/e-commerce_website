@@ -239,3 +239,30 @@ hr {
 .fa {
   cursor: pointer;
 }
+
+footer h5 {
+  color: #d8d8d8;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+footer li {
+  padding-bottom: 4px;
+}
+
+footer li a {
+  font-size: 0.8rem;
+  color: #999;
+}
+
+footer li a:hover {
+  color: #d8d8d8;
+}
+
+footer p {
+  color: #999;
+  font-size: 0.8rem;
+}
+
+footer {
+}
